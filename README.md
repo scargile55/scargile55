@@ -15,8 +15,8 @@ in cloud computing, DevOps and IAC.
 -------
 
 # 📫 Connet with me:
-- [LinkedIn]: linkedin.com/in/scargile
-- [Email]: cargileaws@gmail.com
+- LinkedIn: https://linkedin.com/in/scargile
+- Email: cargileaws@gmail.com
 
 -------
 
