@@ -20,7 +20,7 @@ in cloud computing, DevOps and IAC.
 
 -------
 
-#⚡ Fun fact: I like watching anime and playing the guitar
+#⚡ Fun fact: I enjoy watching anime, playing the guitar and art museums
 
 <!---
 scargile55/scargile55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
